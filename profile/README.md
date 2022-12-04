@@ -96,8 +96,8 @@
 
 아래 기술을 사용해 React 프로젝트를 구현했어요.
 
-    - React : JSX 문법과 Virtual DOM을 사용하는 JavaScript SPA 라이브러리
-    - Styled-Components : 컴포넌트 단위 스타일링을 지원하는 CSS-in-JS 라이브러리
+    - React: JSX 문법과 Virtual DOM을 사용하는 JavaScript SPA 라이브러리
+    - Styled-Components: 컴포넌트 단위 스타일링을 지원하는 CSS-in-JS 라이브러리
 
 <br />
 
@@ -132,8 +132,8 @@
 
     - 아래 기술을 사용해 REST API 서버를 설계 및 배포했어요.
 
-        - Django Rest Framework (DRF) : Python 기반의 Django REST API 프레임워크
-        - NGINX : 빠른 정적파일(이미지 등) 서빙 담당
+        - Django Rest Framework (DRF): Python 기반의 Django REST API 프레임워크
+        - NGINX: 빠른 정적파일(이미지 등) 서빙 담당
 
     - 동물 도감을 쉽게 조회 및 추가할 수 있도록 모델 API를 설계했어요.
 
@@ -141,7 +141,7 @@
 
 > 🔒 **Kakao Social Login과 JWT를 활용한 안전한 로그인**
 
-    - [JSON Web Token (JWT)](https://jwt.io/introduction)을 이용해 안전한 로그인 API를 구현했어요.
+    - JSON Web Token (JWT)을 이용해 안전한 로그인 API를 구현했어요.
     - 백엔드에서 카카오 로그인 API를 JWT와 연결하여 더욱 안전한 로그인 API를 설계했어요.
 
 
