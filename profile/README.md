@@ -117,7 +117,7 @@
 
 <br />
 
-> 💡 **Axios 라이브러리를 활용한 HTTP 비동기 통신 라이브러리**
+> 💡 **Axios 라이브러리를 활용한 HTTP 비동기 통신**
 
     - 요청 객체에 url이 존재하고 자동으로 JSON 데이터 형식으로 전환해주어 사용했어요.
     - react hook 기반에서는 useEffect를 사용해 lifeCycle을 관리했어요.
